@@ -43,7 +43,7 @@ module.exports = {
   ** Router Base Path
   * */
   router: {
-    base: '/xamin/xamin-vue/',
+    base: 'dist/',
     linkActiveClass: 'current-menu-item',
     linkExactActiveClass: 'current-menu-item'
   },
