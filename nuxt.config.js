@@ -77,7 +77,7 @@ module.exports = {
     /*
     ** You can extend webpack config here
     */
-    buildDir: 'dist',
+    buildDir: '.dist',
     extractCSS: {
       allChunks: true
     },
