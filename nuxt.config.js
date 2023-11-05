@@ -43,7 +43,7 @@ module.exports = {
   ** Router Base Path
   * */
   router: {
-    base: 'dist/',
+    base: '/',
     linkActiveClass: 'current-menu-item',
     linkExactActiveClass: 'current-menu-item'
   },
