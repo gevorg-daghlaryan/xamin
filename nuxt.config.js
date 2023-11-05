@@ -39,9 +39,6 @@ module.exports = {
   plugins: [
     '~plugins/theme.js'
   ],
-  /*
-  ** Router Base Path
-  * */
   router: {
     base: '/',
     linkActiveClass: 'current-menu-item',
