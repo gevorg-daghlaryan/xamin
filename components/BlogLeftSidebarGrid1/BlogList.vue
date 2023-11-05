@@ -7,7 +7,7 @@
             <div class="iq-blog-image">
               <img width="1260" height="954" :src="item.src" alt="img">
               <ul class="iq-blogtag">
-                <li> <a href="/blog-left-sidebar-1">{{ item.tag }}</a> </li>
+                <li> <a href="/blog-left-sidebar-grid-1">{{ item.tag }}</a> </li>
               </ul>
             </div>
             <div class="iq-blog-detail">
