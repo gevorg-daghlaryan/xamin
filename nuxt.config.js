@@ -1,7 +1,7 @@
 
 module.exports = {
   mode: 'universal',
-  buildDir: 'dist',
+  target: 'server',
   /*
   ** Headers of the page
   */
@@ -77,6 +77,7 @@ module.exports = {
     /*
     ** You can extend webpack config here
     */
+    buildDir: 'dist',
     extractCSS: {
       allChunks: true
     },
