@@ -419,6 +419,7 @@
 @media(max-width:575px) {
 	.custom-tab .nav.nav-pills li { width: 50%; }
 	.custom-tab .nav-pills .nav-link .tab-title { font-size: 16px; }
+  .iq-accordion.career-style .iq-accordion-block .accordion-title span { display: inherit; font-size: 18px; }
 }
 @media(max-width:527px) {
 	.sub-header .social-icone { display: none; }
@@ -502,7 +503,6 @@
 	.custom-tab .nav.nav-pills[aria-orientation="vertical"] .nav-link .tab-title { font-size: 20px; }
 	.iq-accordion.career-style .accordion-title:before { left: 0; }
 	.iq-accordion.career-style .active-faq a.accordion-title { padding-left: 45px; display: table; }
-	.iq-accordion.career-style .iq-accordion-block .accordion-title span { display: inherit; font-size: 20px; }
 	.container-visualization ul.iq-client.column-5 li { width: 100%; }
 	.content-box {		width: 92%;		left: 0;		margin-left: 20px;		margin-bottom: 29px;		padding: 10px;	}
 	.iq-contant li {		font-size: 13px;	}

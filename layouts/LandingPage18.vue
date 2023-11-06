@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Loader />
+<!--    <Loader />-->
     <HeaderStyle1 :logo-img="logo" :nav-item-list="navItems" class-name="style-one style-two" :styled-logo="styleLogo" />
     <nuxt />
     <ScrollTop />

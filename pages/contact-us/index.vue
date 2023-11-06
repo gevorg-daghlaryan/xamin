@@ -36,7 +36,7 @@ export default {
   mounted () {
     setTimeout(function () {
       themes.index()
-    }, 1000)
+    }, 0)
   }
 }
 </script>

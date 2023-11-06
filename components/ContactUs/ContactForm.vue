@@ -13,17 +13,19 @@
               <div> <input type="text" name="your-email" class="form-control text " placeholder="Your Email"> </div>
               <div> <input type="text" name="your-subject" class="form-control text " placeholder="Website"> </div>
               <div> <textarea name="your-message" cols="40" rows="10" class="form-control textarea " placeholder="Your Message" /> </div>
-              <div>
-                <button
-                  id="submit-4"
-                  click="/contact-us"
-                  name="submit"
-                  type="submit"
-                  value="Send"
-                  class="blue-btn button form-button"
-                >
-                  Submit
-                </button>
+              <div class="row">
+                <div class="col-sm-12 col-md-4">
+                  <button
+                    id="submit-4"
+                    click="/contact-us"
+                    name="submit"
+                    type="submit"
+                    value="Send"
+                    class="blue-btn button form-button"
+                  >
+                    Submit
+                  </button>
+                </div>
               </div>
             </div>
           </form>
@@ -87,5 +89,6 @@ export default {
 <style>
   .form-button {
     font-size: 14px;
+    width: 100%;
   }
 </style>

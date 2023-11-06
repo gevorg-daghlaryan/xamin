@@ -1,7 +1,7 @@
 <template>
   <div id="loading">
     <div class="loading-center">
-<!--      <img :src="require('../../assets/images/loader.gif')" alt="loader">-->
+      <img :src="require('../../assets/images/loader.gif')" alt="loader">
     </div>
   </div>
 </template>
