@@ -41,5 +41,8 @@ export default {
     font-weight: 700;
     color: #343E59;
   }
+  iframe {
+    border: none;
+  }
 
 </style>
