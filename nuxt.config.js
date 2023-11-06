@@ -13,7 +13,11 @@ module.exports = {
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' },
+      { rel: 'icon', sizes: '32x32', type: 'image/png', href: '/favicon-32x32.png' },
+      { rel: 'icon', sizes: '16x16', type: 'image/png', href: '/favicon-16x16.png' },
+      { rel: 'manifest',href: '/manifest.json' },
     ]
   },
   /*

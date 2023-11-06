@@ -194,6 +194,7 @@
 	header .navbar ul li .sub-menu li i:before { content: "\f107" }
 	header .navbar ul li a:before { display: none }
 	header .navbar ul li.current-menu-item a, header .navbar ul li a:hover { background: #437eeb; text-align: left; color: #ffffff; }
+  header .navbar ul li.current-menu-item i, header .navbar ul li a:hover i { color: #ffffff !important;}
 	header.style-one { overflow: visible; position: relative; background: #eff1fe; }
 	header.style-one .navbar-brand { line-height: 0; }
 	header.style-one .shop_list { background: none !important; position: absolute; right: 60px; top: 17px; }

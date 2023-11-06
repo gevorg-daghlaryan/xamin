@@ -9,7 +9,7 @@
 <script>
 
 import { menu, services, pages, landing1About , ourCases ,blog } from '../config/constant.js'
-import logoImg from '../assets/images/logo.png'
+import logoImg from '../assets/images/logo_1.svg'
 
 export default {
   name: 'LandingPage5',

@@ -37,7 +37,7 @@ import FooterMain from '../themes/Partials/Footer/FooterMain'
 import FooterLogo from '../themes/Partials/FooterComponents/FooterLogo'
 import FooterAddress from '../themes/Partials/FooterComponents/FooterAddress'
 import FooterLinks from '../themes/Partials/FooterComponents/FooterLinks'
-import logoImg from '../../assets/images/logo.png'
+import logoImg from '../../assets/images/logo_1.svg'
 
 export default {
   name: 'Footer',
