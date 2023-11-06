@@ -25,6 +25,6 @@ export default {
   .breadcrumb {
     background-image: url("../../assets/images/contact-us/contuct-us.png");
     background-repeat: no-repeat;
-    padding: 80px 0px 0px;
+    padding: 90px 0px 0px;
   }
 </style>
